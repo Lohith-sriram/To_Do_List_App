@@ -22,7 +22,7 @@ A simple command-line To-Do List application built with Python.
 git clone https://github.com/Lohith-sriram/To_Do_List_App.git
 cd To_Do_List_App
 
-
+---
 
 Create and activate a virtual environment:
 
@@ -32,24 +32,25 @@ python -m venv venv
 # macOS/Linux
 source venv/bin/activate
 
-
+---
 
 Install dependencies:
 
 python -m pip install -r requirements.txt
 
-
+---
 
 Run the application:
 
 python todo.py
 
-
+---
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-This project is licensed under the MIT License.
+---
 
+This project is licensed under the MIT License.
 
 ---
 
