@@ -14,7 +14,7 @@ A simple command-line To-Do List application built with Python.
 
 ---
 
-## Installation
+Installation:
 
 1. Clone the repository:
 
